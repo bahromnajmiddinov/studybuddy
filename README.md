@@ -27,3 +27,6 @@
 
    ```bash
    python manage.py migrate
+2. **Start the development server:**
+   ```bash
+   python manage.py runserver
